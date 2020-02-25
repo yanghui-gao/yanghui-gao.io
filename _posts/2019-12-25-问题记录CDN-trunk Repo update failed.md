@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:         问题记录CDN: trunk Repo update failed
+title:         CDN: trunk Repo update failed
 subtitle:   CocoaPods那些事
 date:       2019-12-27
 author:     ED
