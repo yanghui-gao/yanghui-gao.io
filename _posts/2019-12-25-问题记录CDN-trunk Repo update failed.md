@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:       [!] CDN: trunk Repo update failed
-subtitle:   cocoapods那些事
+title:         CDN:trunk Repo update failed
+subtitle:   CocoaPods那些事
 date:       2019-12-27
-author:     BY
+author:     ED
 header-img: img/error-bg-ED.jpg
 catalog: true
 tags:
     - iOS
-    - cocoapods
+    - CocoaPods
     - 问题记录
 ---
 
