@@ -6,7 +6,7 @@ email: insistgyh@gmail.com
 description: "高炀辉的博客"
 keyword: "ED, 二豆, ED Blog, 二豆的博客, gaoyanghui, 高炀辉, iOS, Apple, iPhone"
 url: "http://yanghui-gao.github.io"          # your host, for absolute URL
-baseurl: "yanghui-gao.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yanghui-gao/yanghui-gao.github.io.git" # you code repository
 
 # Sidebar settings
