@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      Git Large File Storag
+title:      Git Large File Storage
 subtitle:   使用 git-lfs 上传大文件
 date:       2021-07-08
 author:     ED
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
-	- git
-	- git-lfs
+    - git
 ---
 
 # Git Large File Storage
@@ -37,7 +36,7 @@ tags:
 
 ```git push```
 
-就可以成功将大文件上传至git, git项目中实际添加的是大文件索引, 实际的文件上传至
+就可以成功将大文件上传至git, git项目中实际添加的是大文件索引, 实际的文件上传至 gitLFS 且有带宽和配额限制。
 
 ### 参考链接
 
