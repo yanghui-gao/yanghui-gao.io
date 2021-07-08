@@ -21,7 +21,9 @@ tags:
 - 运行 ```brew install git-lfs``` 安装
 
 - 验证是否安装成功
+  
   ```$ git lfs install ```
+  
   ``` > Git LFS initialized.```
 
 ### 使用
@@ -33,6 +35,8 @@ tags:
 ``` git commit -m "add model file"```
 
 ```git push```
+
+就可以成功将大文件上传至git, git项目中实际添加的是大文件索引, 实际的文件上传至
 
 ### 参考链接
 
