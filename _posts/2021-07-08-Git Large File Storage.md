@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      123
-subtitle:   123
+title:      Git Large File Storag
+subtitle:   使用 git-lfs 上传大文件
 date:       2021-07-08
 author:     ED
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
-	- Git
+	- git
 ---
 
 # Git Large File Storage
